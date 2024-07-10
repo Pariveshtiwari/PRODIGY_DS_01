@@ -49,6 +49,16 @@ Bar charts are created to visualize the population data for the top 10 and botto
 - Top 10 countries by female population.
 - Bottom 10 countries by female population.
 
+
+#Results
+
+
+The results of the analysis include bar charts that show the population distribution by gender for the top 10 and bottom 10 countries. These visualizations provide insights into the population demographics of different countries.
+
+#Conclusion
+
+This project demonstrates how to process, analyze, and visualize population data by gender using Python. The approach can be extended to other years or datasets to gain further insights into population dynamics.
+
 ## Usage
 
 To run the analysis and generate the visualizations, execute the `PRODIGY_DS_01.ipynb` script. Ensure you have the necessary Python libraries installed (`pandas`, `matplotlib`, and `seaborn`).
@@ -65,13 +75,10 @@ You can install the dependencies using pip:
 bash
 Copy code
 pip install pandas matplotlib seaborn
-Results
 
-The results of the analysis include bar charts that show the population distribution by gender for the top 10 and bottom 10 countries. These visualizations provide insights into the population demographics of different countries.
 
-Conclusion
 
-This project demonstrates how to process, analyze, and visualize population data by gender using Python. The approach can be extended to other years or datasets to gain further insights into population dynamics.
+
 
 
 
